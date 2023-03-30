@@ -1,6 +1,6 @@
 [   {
     "title": "Data Structures and Algorithms in Java",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/51Zy2Z1ZQlL._SX379_BO1,204,203,200_.jpg",
+    "image": "https://dimensionless.in/wp-content/uploads/2019/05/ML-Robot-1024x675.jpg",
     "description": "Data Structures and Algorithms in Java, 6th Edition",
     "tech": ["java", "data structures", "algorithms"],
     "github": "https://www.github.com",
@@ -13,9 +13,9 @@
         "tech": ["java", "data structures", "algorithms"],
         "github": "https://www.github.com",
         "live": "https://www.amazon.com/Data-Structures-Algorithms-Java-6th/dp/1118771338"
-     },
-    {
-         "title": "Data Structures and Algorithms in Java",
+        },
+        {
+            "title": "Data Structures and Algorithms in Java",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51Zy2Z1ZQlL._SX379_BO1,204,203,200_.jpg",
             "description": "Data Structures and Algorithms in Java, 6th Edition",
             "tech": ["java", "data structures", "algorithms"],

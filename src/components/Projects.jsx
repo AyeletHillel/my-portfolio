@@ -1,18 +1,18 @@
 import projects from '../json/projects.json';
-import { ProjectContainer } from '../styledcomponents/Projects';
+import { ProjectsContainer, ProjectCard, ProjectImage, ProjectLink } from '../styledcomponents/Projects.js';
 
 
 export default function Projects() {
     return (
-    <div>
+    <ProjectsContainer>
         {projects.map((project) => (
-            <ProjectContainer key={project.title}>
+            <ProjectCard key={project.title}>
                 <h2>{project.description}</h2>
-                <img src={project.image} alt={project.title} />
+                <ProjectImage src={project.image} alt={project.title} />
                 <p>{project.description}</p>
-                <a href={project.github}>GitHub</a>
-                <a href={project.live}>Deployed</a>
-                </ProjectContainer>
+                <ProjectLink href={project.github}>GitHub</ProjectLink>
+                <ProjectLink href={project.live}>Deployed</ProjectLink>
+                </ProjectCard>
         ))}
-    </div>)
+    </ProjectsContainer>)
 }
