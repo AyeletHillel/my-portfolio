@@ -1,25 +1,41 @@
 [   {
-    "title": "Data Structures and Algorithms in Java",
-    "image": "https://dimensionless.in/wp-content/uploads/2019/05/ML-Robot-1024x675.jpg",
-    "description": "Data Structures and Algorithms in Java, 6th Edition",
-    "tech": ["java", "data structures", "algorithms"],
-    "github": "https://www.github.com",
-    "live": "https://www.amazon.com/Data-Structures-Algorithms-Java-6th/dp/1118771338"
+    "title": "Data Forecasting Zillow Rent Index in California",
+    "image": "https://www.mas-software.com/wp-content/uploads/2021/07/Machine-Learning.jpg",
+    "description": "Data Structures and ML in Python",
+    "tech": ["Python", "data structures", "ML"],
+    "github": "https://github.com/Skipp-py/NYCDSA_Capstone",
+    "live": "https://nycdatascience.com/blog/student-works/data-forecasting-zillow-rent-index-in-california/"
     },
     {
-        "title": "Data Structures and Algorithms in Java",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/51Zy2Z1ZQlL._SX379_BO1,204,203,200_.jpg",
-        "description": "Data Structures and Algorithms in Java, 6th Edition",
-        "tech": ["java", "data structures", "algorithms"],
-        "github": "https://www.github.com",
-        "live": "https://www.amazon.com/Data-Structures-Algorithms-Java-6th/dp/1118771338"
+        "title": "Using Data to Predict Sale Prices of Houses in Ames, Iowa",
+        "image": "https://www.deeplearningbook.com.br/wp-content/uploads/2022/04/Machine-Learning-Guia-Definitivo.jpeg",
+        "description": "Data Structures and ML in Python",
+        "tech": ["Python", "data structures", "ML"],
+        "github": "https://github.com/SwetaPrabh/Housing_Data_Analysis",
+        "live": "https://nycdatascience.com/blog/student-works/using-data-to-predict-sale-prices-of-houses-in-ames-iowa/"
         },
         {
-            "title": "Data Structures and Algorithms in Java",
+            "title": "Data Based Board Games Market Analysis",
             "image": "https://images-na.ssl-images-amazon.com/images/I/51Zy2Z1ZQlL._SX379_BO1,204,203,200_.jpg",
-            "description": "Data Structures and Algorithms in Java, 6th Edition",
+            "description": "Data Analysis using R",
             "tech": ["java", "data structures", "algorithms"],
             "github": "https://www.github.com",
-            "live": "https://www.amazon.com/Data-Structures-Algorithms-Java-6th/dp/1118771338"
-            }
+            "live": "https://github.com/AyeletHillel/BGG-R"
+            },
+            {
+                "title": "Data PM",
+                "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxSZWFjdHxlbnwwfHx8fDE2NzIyNDgyNTg&ixlib=rb-4.0.3&q=80&w=2000",
+                "description": "Full CRUD App with React frontend and Django backend",
+                "tech": ["React", "Python", "Java Script", "Django",  "Tailwind CSS"],
+                "github": "https://www.github.com",
+                "live": "https://github.com/AyeletHillel/BGG-R"
+                },
+                {
+                    "title": "NLP Lab",
+                    "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxSZWFjdHxlbnwwfHx8fDE2NzIyNDgyNTg&ixlib=rb-4.0.3&q=80&w=2000",
+                    "description": "Sentiment Analysis Full CRUD App with React frontend and Express backend",
+                    "tech": ["React", "Python", "Java Script", "Express",  "Tailwind CSS"],
+                    "github": "https://www.github.com",
+                    "live": "https://github.com/AyeletHillel/BGG-R"
+                    }
 ]
