@@ -16,7 +16,7 @@
         },
         {
             "title": "Data Based Board Games Market Analysis",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/51Zy2Z1ZQlL._SX379_BO1,204,203,200_.jpg",
+            "image": "https://res.cloudinary.com/teepublic/image/private/s--dlSL9c9p--/c_crop,x_10,y_10/c_fit,h_872/c_crop,g_north_west,h_1050,w_1260,x_-121,y_-89/co_rgb:000000,e_colorize,u_Misc:One%20Pixel%20Gray/c_scale,g_north_west,h_1050,w_1260/fl_layer_apply,g_north_west,x_-121,y_-89/bo_0px_solid_white/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1583488640/production/designs/8340708_0.jpg",
             "description": "Data Analysis using R",
             "tech": ["java", "data structures", "algorithms"],
             "github": "https://github.com/AyeletHillel/BGG-R",
@@ -32,7 +32,7 @@
                 },
                 {
                     "title": "NLP Lab",
-                    "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxSZWFjdHxlbnwwfHx8fDE2NzIyNDgyNTg&ixlib=rb-4.0.3&q=80&w=2000",
+                    "image": "https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg",
                     "description": "Sentiment Analysis Full CRUD App with React frontend and Express backend",
                     "tech": ["React", "Python", "Java Script", "Express",  "Tailwind CSS"],
                     "github": "https://github.com/AyeletHillel/capstone_frontend",
